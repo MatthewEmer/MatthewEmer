@@ -6,8 +6,6 @@ I've developed communication, teamwork, and leadership skills through my work wi
 
 I'm now looking to build experience in finance or logistics.
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewEmer&theme=dark" alt="this"/></p>
-
 ### Key Skills
 
 X Spreadsheet Design
@@ -63,3 +61,5 @@ Connect with me:
 <p>
     <a href="https://linkedin.com/in/this" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this" height="30" width="40" /></a>
 </p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewEmer&theme=dark" alt="this"/></p>

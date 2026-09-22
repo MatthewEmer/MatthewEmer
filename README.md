@@ -1,5 +1,3 @@
-# About
-
 Hi :wave:, I'm Matthew Emerson. 
 
 I am a second-year Computer Science student at Durham University with a strong interest in data science and financial computing. 

@@ -6,7 +6,7 @@ I've developed communication, teamwork, and leadership skills through my work wi
 
 I'm now looking to build experience in finance or logistics.
 
-### Key Skills
+## Key Skills
 
 :bar_chart: Spreadsheet Design
 
@@ -18,7 +18,7 @@ I'm now looking to build experience in finance or logistics.
 
 X ANOTHER SKILL
 
-## Key Links
+## My Links
 
 :link: See my [personal website here](https://matthewemer.github.io).
 
@@ -26,7 +26,13 @@ X ANOTHER SKILL
 
 :pushpin: See all my other projects on [my portfolio](LINK).
 
-:page_facing_up: Get my [CV here](https://github.com/MatthewEmer/My-CV/blob/main/Matthew-Emerson-CV.pdf).
+:page_facing_up: Get my [CV here](https://github.com/MatthewEmer/My-CV/blob/main/Matthew-Emerson-CV.pdf). - redundant, needs moving.
+
+#### Contact me:
+
+:mailbox_with_mail: Email me: matthewemer11@outlook.com
+
+:necktie: Connect with me [on LinkedIn](https://linkedin.com/in/matthewemer).
 
 ## Languages and Tools:
 
@@ -63,13 +69,4 @@ Miscelaneous:
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-</p>
-
-## How to Contact Me
-
-:mailbox_with_mail: Email me: matthewemer11@outlook.com
-
-Connect with me: 
-<p>
-    <a href="https://linkedin.com/in/matthewemer" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this" height="30" width="40" /></a>
 </p>

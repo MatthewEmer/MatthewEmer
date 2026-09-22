@@ -61,5 +61,3 @@ Connect with me:
 <p>
     <a href="https://linkedin.com/in/matthewemer" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this" height="30" width="40" /></a>
 </p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewEmer&theme=dark" alt="this"/></p>

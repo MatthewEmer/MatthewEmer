@@ -20,13 +20,11 @@ X ANOTHER SKILL
 
 ## My Links
 
-:link: See my [personal website here](https://matthewemer.github.io).
+:link: See my [personal website here](https://matthewemer.github.io). - needs finishing
 
-:telescope: I am currently working on [THIS PROJECT](LINK).
+:telescope: I am currently spending time updating and reformatting many of my old projects.
 
-:pushpin: See all my other projects on [my portfolio](LINK).
-
-:page_facing_up: Get my [CV here](https://github.com/MatthewEmer/My-CV/blob/main/Matthew-Emerson-CV.pdf). - redundant, needs moving.
+:pushpin: See all my other projects on [my portfolio](https://github.com/MatthewEmer/My-Portfolio).
 
 #### Contact me:
 

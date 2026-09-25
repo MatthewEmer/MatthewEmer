@@ -8,15 +8,15 @@ I'm now looking to build experience in finance or logistics.
 
 ## Key Skills
 
-:bar_chart: Spreadsheet Design
+📈 Analytical Reasoning
 
-:telephone_receiver: Communication
+📞 Communication
 
-:loudspeaker: Leadership
+📆 Project Management
 
-:computer: Programming
+📊 Data Presentation
 
-X ANOTHER SKILL
+🧑‍🤝‍🧑 Teamwork
 
 ## My Links
 

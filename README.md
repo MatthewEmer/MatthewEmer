@@ -22,7 +22,7 @@ I'm now looking to build experience in finance or logistics.
 
 :link: See my [personal website here](https://matthewemer.github.io). - needs finishing
 
-:telescope: I am currently spending time updating and reformatting many of my old projects.
+:telescope: I am currently developing a data analysis tool which gathers data from the REFSIX app ([See the repository here](https://github.com/MatthewEmer/REFSIX-Data)).
 
 :pushpin: See all my other projects on [my portfolio](https://github.com/MatthewEmer/My-Portfolio).
 

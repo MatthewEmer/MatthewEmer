@@ -20,17 +20,17 @@ I'm now looking to build experience in finance or logistics.
 
 ## My Links
 
-:link: See my [personal website here](https://matthewemer.github.io). - needs finishing
+🔗 See my [personal website here](https://matthewemer.github.io). - needs finishing
 
-:telescope: I am currently developing a data analysis tool which gathers data from the REFSIX app ([See the repository here](https://github.com/MatthewEmer/REFSIX-Data)).
+🔭 I am currently developing a data analysis tool which gathers data from the REFSIX app ([See the repository here](https://github.com/MatthewEmer/REFSIX-Data)).
 
-:pushpin: See all my other projects on [my portfolio](https://github.com/MatthewEmer/My-Portfolio).
+📌 See all my other projects on [my portfolio](https://github.com/MatthewEmer/My-Portfolio).
 
 #### Contact me:
 
-:mailbox_with_mail: Email me: matthewemer11@outlook.com
+📬 Email me: matthewemer11@outlook.com
 
-:necktie: Connect with me [on LinkedIn](https://linkedin.com/in/matthewemer).
+👔 Connect with me [on LinkedIn](https://linkedin.com/in/matthewemer).
 
 ## Languages and Tools:
 
